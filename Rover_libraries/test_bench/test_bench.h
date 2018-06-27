@@ -9,8 +9,8 @@
 #ifndef TEST_BENCH
 #define TEST_BENCH
 
-#include "/home/tanner/Desktop/Projects/dfRobotshop rover V2/tracked_rover_control_v1/tracked_rover_control_v1.h"
-#include "/home/tanner/Desktop/Projects/dfRobotshop rover V2/tracked_rover_control_v1/tracked_rover_v1_autonomous.h"
+#include "tracked_rover_control_v1.h"
+#include "tracked_rover_v1_autonomous.h"
 #include <Arduino.h>
 
 // Test function declarations
