@@ -4,7 +4,7 @@
 // Author: Tanner Lankford
 // Date: 6/23/18
 // Desc: Program controls the atonoumous object
-//       object avoidance function of the rover 
+//       avoidance function of the rover 
 // ********************************************
 //
 #include "tracked_rover_v1_autonomous.h"
